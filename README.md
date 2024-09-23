@@ -270,8 +270,8 @@ PostgresSQL
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
 Contact me on 
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/mr.prakash_15_)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/iamprakashramesh)
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/deepak.paramanantham)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/deepakparamanantham/)
 
 
 
